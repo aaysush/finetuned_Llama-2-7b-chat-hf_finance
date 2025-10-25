@@ -1,13 +1,7 @@
-# finetuned_Llama-2-7b-chat-hf_finance
-
 🔗 View at: https://huggingface.co/aaysush16/finance-llama-2-7b-lora
-💾 Size: 35.95 MB
 
-Here’s a clean, professional version you can use for your documentation or README:
 
----
-
-## Project Documentation: Fine-Tuning LLaMA-2-7B for Finance Q&A
+##  Fine-Tuning LLaMA-2-7B for Finance Q&A
 
 ### Overview
 
@@ -84,9 +78,3 @@ This approach allowed fine-tuning the large LLaMA model on limited hardware whil
   * Fine-tuning using QLoRA allowed running the model on 4-bit quantization, significantly reducing VRAM usage.
 
 ---
-
-This documentation highlights the workflow from data collection, preprocessing, and QLoRA fine-tuning to integration of live financial data for inference.
-
----
-
-If you want, I can also **write a compact “Model Card ready” version** for Hugging Face that summarizes all this neatly with proper fields filled. It’ll look professional on your Hub page. Do you want me to do that?
