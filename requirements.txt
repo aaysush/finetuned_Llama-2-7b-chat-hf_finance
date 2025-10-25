@@ -1,0 +1,10 @@
+gradio==4.44.0
+yfinance==0.2.40
+torch==2.1.0
+transformers==4.36.0
+accelerate==0.25.0
+bitsandbytes==0.41.3
+peft==0.7.1
+sentencepiece==0.1.99
+protobuf==3.20.3
+numpy<2.0.0
